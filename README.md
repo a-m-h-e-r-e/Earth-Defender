@@ -24,3 +24,6 @@ Time your firing to hit your target.
   * If it’s right command, move the ship to the right.
   * If it’s shoot, shoot.
 * Loop to step one.
+
+## Installation
+Download the emu8086 emulator from [softonic](https://emu8086-microprocessor-emulator.en.softonic.com/download). Install the app and enjoy.
